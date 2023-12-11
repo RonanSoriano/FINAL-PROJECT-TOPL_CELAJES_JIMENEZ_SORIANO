@@ -9,7 +9,7 @@ import java.util.*;
         SORIANO, RONAN D.
         
         3 BSCS - 1
-        TPL FINAL PROJECT
+        TOPL FINAL PROJECT
      */
 
 public class FinalProject extends JFrame {
