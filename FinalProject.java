@@ -3,6 +3,15 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.*;
 
+   /*
+        CELAJES, AERON RED R.
+        JIMENEZ, CESAR JULIUS D.
+        SORIANO, RONAN D.
+        
+        3 BSCS - 1
+        TPL FINAL PROJECT
+     */
+
 public class FinalProject extends JFrame {
     public JPanel MainPanel;
     public JButton openFileButton, lexicalAnalysisButton, clearButton, semanticAnalysisButton, syntaxAnalysisButton;
